@@ -91,7 +91,7 @@ public class DragonAnimationDemo4 implements ApplicationListener {
         // If mouse click on dragon, kill dragon
         if (Gdx.input.isTouched()) {
         	// Camera unprojection of mouse click position explained at
-        	// https://cssegit.monmouth.edu:2443/jchung/libgdx.wiki/wikis/a-simple-game
+        	// https://cssegit.monmouth.edu/jchung/libgdx.wiki/wikis/a-simple-game
 			mousePosition.set(Gdx.input.getX(), Gdx.input.getY(), 0);
 			camera.unproject(mousePosition);
 			
