@@ -1,2 +1,2 @@
-(Fall 2020) This is the [Dragon sprite animation demo 4](https://cssegit.monmouth.edu/jchung/libgdx-animation-fa18), modified as starter code for Project 3.
-We went over the Dragon sprite animation on Oct 27 ([YouTube link](https://youtu.be/bHfAmRTGiBo)).
+(Fall 2020) Final Project for CS 360. Duck hunt style point and click game
+Use `gradlew desktop:run` to play
